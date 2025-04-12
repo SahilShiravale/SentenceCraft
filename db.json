@@ -1,0 +1,42 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "I ___ to the ___ every morning.",
+      "options": ["go", "gym", "pizza", "run"],
+      "answer": ["go", "gym"]
+    },
+    {
+      "id": 2,
+      "sentence": "She ___ her homework at the ___.",
+      "options": ["library", "completed", "fast", "book"],
+      "answer": ["completed", "library"]
+    },
+    {
+      "id": 3,
+      "sentence": "The cat ___ under the ___.",
+      "options": ["hides", "table", "sleep", "jump"],
+      "answer": ["hides", "table"]
+    },
+    {
+      "id": 4,
+      "sentence": "We ___ lunch at the ___ restaurant.",
+      "options": ["ate", "new", "blue", "fancy"],
+      "answer": ["ate", "new"]
+    },
+    {
+      "id": 5,
+      "sentence": "They ___ soccer on the ___ field.",
+      "options": ["play", "green", "game", "ball"],
+      "answer": ["play", "green"]
+    },
+    {
+      "id": 6,
+      "sentence": "He ___ a song with his ___ voice.",
+      "options": ["sang", "loud", "wrote", "soft"],
+      "answer": ["sang", "soft"]
+    }
+  ]
+}
+
+  
